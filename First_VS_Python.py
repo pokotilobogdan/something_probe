@@ -16,4 +16,4 @@ if __name__ == "__main__":
 
 
     print_delay(message, 0.05)
-    print_delay(message, 0.03)
+    print_delay(message, 0.01)
